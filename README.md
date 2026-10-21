@@ -1,7 +1,5 @@
 # AntiSplit-Rust
 
-## About
-
 Merges split APK bundles (`.apks`, `.xapk`, `.apkm`, `.apkx`) into one installable `.apk`. A Linux port of [AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M), written in Rust.
 
 ## Requirements
